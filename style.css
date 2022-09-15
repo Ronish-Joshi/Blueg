@@ -7,7 +7,7 @@ body{
     padding: 1.5vw 1vw 1.5vw 1vw;
 }
 .navbar-nav a{
-    font-size: 1.1vw;
+    font-size: 1.3vw;
     margin-right: 1vw;
     color: black;
 }
@@ -154,14 +154,14 @@ footer{
     margin-left: 50%;
     transform: translateX(-50%);
     width: 10vw;
-    margin-top: 2%;
+    margin-top: 4.9%;
 }
 .footer-elements{
     display:flex;
     justify-content: space-between;
     width: 70%;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 2.5%;
 }
 .footer-elements h3{
     font-size: 2vw;
