@@ -20,7 +20,26 @@ body{
     border-radius: 0.2vw;
 }
 
-
+#appinstall{
+    background-color: transparent;
+    border: none;
+    border: 1px solid green;
+    color: green;
+    padding: 1vw 2vw 1vw 2vw;
+    border-radius: 2vw;
+    font-size: 1vw;
+    margin-top: 2.5%;
+}
+#appinstallapple{
+    background-color: transparent;
+    border: none;
+    border: 1px solid black;
+    color: black;
+    padding: 1vw 2vw 1vw 2vw;
+    border-radius: 2vw;
+    font-size: 1vw;
+    margin-top: 2.5%;
+}
 .navbar-brand img{
     width: 11vw;
     margin-left: 2.5vw;
@@ -339,7 +358,19 @@ footer{
     padding-top: 10%;
     font-weight: 700;
 }
-
+.p4-section-one-socials{
+    text-align: center;
+    margin-top: 5%;
+}
+.p4-section-one-socials button{
+    height: 5vw;
+    width: 5vw;
+    border-radius: 50%;
+    margin-left: 1vw;
+    background-color: transparent;
+    border: 0.2vw solid black;
+    font-size: 1.5vw;
+}
 .p4-section-two{
     display: flex;
     justify-content: space-between;
