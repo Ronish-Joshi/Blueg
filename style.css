@@ -33,8 +33,8 @@ body{
 #appinstallapple{
     background-color: transparent;
     border: none;
-    border: 1px solid black;
-    color: black;
+    border: 1px solid #0060AA;
+    color: #0060AA;
     padding: 1vw 2vw 1vw 2vw;
     border-radius: 2vw;
     font-size: 1vw;
@@ -273,7 +273,7 @@ footer{
 /*===================PAGE THREEE======================*/
 
 .p3-section-one{
-    background-image: url(img/p3headimg.png);
+    background-image: url(img/p3headimg.jpg);
     background-size: cover;
     padding-top: 20%;
     padding-left: 8%;
@@ -337,11 +337,12 @@ footer{
     height: 100vh;
 }
 .p3-section-four{
-    background-image: url(img/p3footimg.png);
+    background-image: url(img/p3footimg.jpg);
     background-size: cover;
     padding-bottom: 25%;
     padding-left: 8%;
     padding-top: 9%;
+    
 }
 .p3-section-four h1{
     font-size: 3.8vw;
@@ -452,6 +453,14 @@ footer{
     font-size: 1vw;
     color: white;
 }
+.p4-secfour-one a:nth-child(2){
+    margin-top: 24%;
+    
+ }
+ .p4-secfour-one a:nth-child(3){
+    margin-top: 27%;
+    
+ }
 .p4-secfour-two{
     width: 55%;
 }
