@@ -172,8 +172,8 @@ footer{
 .footer-white img{
     margin-left: 50%;
     transform: translateX(-50%);
-    width: 10vw;
-    margin-top: 4.9%;
+    width: 15vw;
+    margin-top: 4%;
 }
 .footer-elements{
     display:flex;
@@ -360,8 +360,13 @@ footer{
     font-weight: 700;
 }
 .p4-section-one-socials{
-    text-align: center;
-    margin-top: 5%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 35%;
+    margin-left: -3%;
+    
 }
 .p4-section-one-socials button{
     height: 5vw;
@@ -369,8 +374,10 @@ footer{
     border-radius: 50%;
     margin-left: 1vw;
     background-color: transparent;
-    border: 0.2vw solid black;
+    border: 0.2vw solid white;
     font-size: 1.5vw;
+    color: white;
+    margin-top: 15%;
 }
 .p4-section-two{
     display: flex;
