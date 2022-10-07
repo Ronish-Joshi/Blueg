@@ -32,3 +32,14 @@ document.addEventListener("DOMContentLoaded", function(){
     }
     // end if innerWidth
     }); 
+
+
+    function showPara(){
+        var para = document.getElementById("p-hide");
+        para.style.display = "block";
+    }
+
+    function showParaTwo(){
+        var para = document.getElementById("p-hide-second");
+        para.style.display = "block";
+    }
