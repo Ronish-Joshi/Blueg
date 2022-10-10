@@ -43,3 +43,8 @@ document.addEventListener("DOMContentLoaded", function(){
         var para = document.getElementById("p-hide-second");
         para.style.display = "block";
     }
+
+    function showParaThree(){
+        var para = document.getElementById("p-hide-three");
+        para.style.display = "block";
+    }
